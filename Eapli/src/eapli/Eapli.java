@@ -18,5 +18,7 @@ public class Eapli {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Teste");
+        
+        JOptionPane.showMessageDialog(null, "Teste 2");
     }
 }
