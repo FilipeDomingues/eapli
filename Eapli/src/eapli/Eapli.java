@@ -20,5 +20,7 @@ public class Eapli {
         JOptionPane.showMessageDialog(null, "Teste");
         
         JOptionPane.showMessageDialog(null, "Teste 2");
+        
+        JOptionPane.showMessageDialog(null, "Teste 3");
     }
 }
