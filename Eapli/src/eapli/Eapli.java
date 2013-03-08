@@ -4,6 +4,8 @@
  */
 package eapli;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Filipe
@@ -15,5 +17,6 @@ public class Eapli {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "Teste");
     }
 }
